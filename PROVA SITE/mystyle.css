@@ -1,0 +1,60 @@
+body
+
+style 
+header {
+  width: 140px; 
+  border: 1px solid #000000;
+  word-break: keep-all;
+}
+  
+  h1 {
+    color: rgb(235, 109, 25);
+    margin-left: 20px;
+  }
+
+  h2 {
+    color: rgb(235, 109, 25);
+    margin-left: 20px;
+  }
+
+.background {
+  background: url(Backgroundmetal.jpg) no-repeat center; 
+  background-size: cover;
+  height: 500px;
+  position: relative;
+}
+
+
+*{margin:auto; padding: auto; text-decoration:none;list-style-type:none;}
+body{background:#f9faf9; margin:auto; text-align:center;} 
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: rgb(211, 88, 31);
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
